@@ -1,14 +1,14 @@
 main:
-  - name: "Services"
+  - name: "Услуги"
     url: "/services/"
     weight: 2
-  - name: "Team"
+  - name: "Команда"
     url: "/team/"
     weight: 3
-  - name: "About"
+  - name: "О нас"
     url: "/about/"
     weight: 4
-  - name: "Contact"
+  - name: "Контакты"
     url: "/contact/"
     weight: 5
 
