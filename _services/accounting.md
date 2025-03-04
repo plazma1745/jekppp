@@ -5,7 +5,7 @@ weight: 1
 ---
 
 Плазменная резка металла в Златоусте
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/work.jpg)
 
 # Плазменная резка высокого качества
 
