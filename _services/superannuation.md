@@ -1,86 +1,166 @@
 ---
-title: "Superannuation"
+title: "Художественная резка металла"
 date: 2019-03-28T15:14:54+10:00
-weight: 5
+weight: 6
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Декоративная и художественная резка металла для дизайнерских проектов в Златоусте
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Художественная резка](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+# Искусство в металле
 
-Financial accounting and financial reporting are often used as synonyms.
+Создаем уникальные декоративные изделия из металла с помощью современных технологий художественной резки. Воплощаем самые смелые дизайнерские идеи в металлических конструкциях.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+## Технологии художественной обработки
 
-## Relevance
+### Лазерная резка для декора
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+Идеальный инструмент для создания сложных узоров:
+- Толщина материала до 20 мм
+- Минимальная ширина реза 0.1 мм
+- Возможность создания мельчайших деталей
+- Отсутствие механических воздействий
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+### Плазменная художественная резка
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+Для крупных декоративных элементов:
+- Работа с толстым металлом до 36 мм
+- Высокая производительность
+- Экономичность при больших размерах
+- Возможность объемных композиций
 
-## Faithful Representation
+### Гидроабразивная резка
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+Для особо точных художественных работ:
+- Любые материалы и сплавы
+- Идеальное качество кромки
+- Возможность 3D-резки
+- Сохранение всех свойств материала
 
 ---
 
-## Statement of cash flows
+## Виды художественных изделий
 
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+### Декоративные панели
 
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
+**Для интерьера:**
+- Перегородки и ширмы
+- Декоративные вставки в мебель
+- Панно и картины из металла
+- Светильники и абажуры
 
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
+**Для экстерьера:**
+- Фасадные панели зданий
+- Козырьки и навесы
+- Балконные ограждения
+- Входные группы
 
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
+### Архитектурные элементы
 
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
+- **Ворота и калитки** с художественными элементами
+- **Лестничные перила** сложной геометрии
+- **Беседки и павильоны** ажурной конструкции
+- **Малые архитектурные формы** для благоустройства
 
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
+### Рекламные конструкции
 
-## Statement of financial position (balance sheet)
+- **Вывески и логотипы** объемные и плоские
+- **Указатели и таблички** из нержавеющей стали
+- **Стелы и монументы** для городской среды
+- **Выставочные стенды** разборной конструкции
 
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
+---
 
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
+## Материалы для художественной резки
 
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+### Декоративные стали
+
+| Материал | Толщина | Особенности |
+| -------- | ------- | ----------- |
+| Сталь Cor-Ten | 2-10 мм | Атмосферостойкая, "ржавый" вид |
+| Нержавейка матовая | 1-8 мм | Благородный внешний вид |
+| Нержавейка зеркальная | 1-5 мм | Отражающая поверхность |
+| Черная сталь | 2-20 мм | Классический материал |
+
+### Цветные металлы
+
+- **Алюминий анодированный** различных цветов
+- **Медь** для патинирования и состаривания  
+- **Латунь** для элитных интерьеров
+- **Титан** для эксклюзивных проектов
+
+### Комбинированные материалы
+
+- Сталь с деревянными вставками
+- Металл с цветным стеклом
+- Комбинации различных металлов
+- Подсветка LED-лентами
+
+## Этапы создания художественных изделий
+
+### 1. Разработка эскиза
+
+- Консультация с дизайнером
+- 3D-моделирование изделия  
+- Подбор оптимальных материалов
+- Расчет стоимости проекта
+
+### 2. Техническая подготовка
+
+- Адаптация эскиза под технологию резки
+- Программирование станков ЧПУ
+- Заказ и подготовка материалов
+- Планирование производственного процесса
+
+### 3. Изготовление
+
+- Точная резка всех элементов
+- Контроль качества на каждом этапе
+- Обработка кромок и поверхностей
+- Предварительная сборка (при необходимости)
+
+### 4. Финишная обработка
+
+- Шлифовка и полировка
+- Покрытие защитными составами
+- Покраска или патинирование
+- Упаковка для транспортировки
+
+---
+
+## Специальные техники
+
+### Патинирование и состаривание
+
+Создаем эффект старины на новых изделиях:
+- Химическое патинирование меди и бронзы
+- Искусственное состаривание стали
+- Создание различных цветовых оттенков
+- Защитное покрытие патины
+
+### Комбинирование технологий
+
+- Резка + гибка для объемных форм
+- Резка + сварка для сложных конструкций  
+- Резка + гравировка для детализации
+- Резка + перфорация для световых эффектов
+
+### Интегрированная подсветка
+
+- Проектирование под LED-освещение
+- Скрытая проводка в конструкции
+- Различные режимы подсветки
+- Управление освещением
+
+> **Индивидуальный подход:** каждый проект художественной резки уникален. Мы работаем по индивидуальным эскизам и воплощаем самые смелые идеи.
+
+## Области применения
+
+- **Ресторны и кафе** - декоративные элементы интерьера
+- **Отели и гостиницы** - фасадное оформление  
+- **Частные дома** - ограждения, ворота, элементы ландшафта
+- **Офисы и бизнес-центры** - стильные перегородки и панели
+- **Общественные пространства** - арт-объекты и инсталляции
+
+Превращаем металл в произведение искусства!

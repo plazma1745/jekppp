@@ -1,87 +1,108 @@
 ---
-title: "Business Sales"
+title: "Резка металла по чертежам"
 date: 2019-01-28T15:15:26+10:00
-weight: 2
+weight: 3
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet
+Точная резка металла по техническим чертежам и CAD-файлам в Златоусте
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Резка по чертежам](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+# Изготовление деталей по чертежам
 
-Financial accounting and financial reporting are often used as synonyms.
+Наша компания специализируется на высокоточном изготовлении металлических деталей по техническим чертежам заказчика. Работаем с любыми форматами конструкторской документации.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+Современное программное обеспечение позволяет нам работать с файлами различных форматов: AutoCAD (DWG, DXF), SolidWorks, Inventor, а также с растровыми изображениями чертежей.
 
-## Relevance
+## Процесс работы:
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+### Прием заказа
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+Принимаем технические задания в любом удобном для вас формате:
+- Электронные чертежи (DWG, DXF, PDF)
+- CAD-файлы всех популярных форматов
+- Бумажные чертежи (оцифровываем)
+- Эскизы с размерами
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+### Техническая подготовка
 
-## Faithful Representation
+- Анализ технологичности конструкции
+- Оптимизация раскроя материала
+- Программирование ЧПУ станков
+- Расчет стоимости и сроков
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+### Изготовление
 
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+Используем современные методы обработки металла:
+- Плазменная резка (до 36 мм)
+- Лазерная резка (до 25 мм)
+- Гидроабразивная резка (до 100 мм)
+- Механическая обработка
 
 ---
 
-## Statement of cash flows
+## Материалы и толщины
 
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+Работаем с широким спектром металлических материалов:
 
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
+| Материал | Плазма | Лазер | Гидроабразив |
+| -------- | ------ | ----- | ------------ |
+| Конструкционная сталь | 3-36 мм | 1-25 мм | 1-100 мм |
+| Нержавеющая сталь | 3-30 мм | 1-20 мм | 1-80 мм |
+| Алюминий | 3-25 мм | 1-15 мм | 1-60 мм |
+| Медь, латунь | 3-20 мм | 1-10 мм | 1-40 мм |
 
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
+## Точность изготовления
 
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
+- **Плазменная резка:** ±0.5 мм
+- **Лазерная резка:** ±0.1 мм
+- **Гидроабразивная резка:** ±0.05 мм
 
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
+### Контроль качества
 
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
+Каждая партия деталей проходит обязательный контроль:
 
-## Statement of financial position (balance sheet)
+1. **Входной контроль** материалов
+2. **Операционный контроль** размеров
+3. **Финальная проверка** готовых деталей
 
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
+> Используем современные средства измерения: штангенциркули, микрометры, измерительные линейки, угломеры.
 
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
+## Дополнительные услуги
 
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+### Обработка кромок
+
+- Снятие фасок
+- Зачистка от окалины
+- Шлифовка торцов
+- Полировка поверхности
+
+### Гибка и формовка
+
+- Гибка листового металла
+- Вальцовка труб
+- Штамповка простых форм
+- Сварочные работы
+
+### Покрытия
+
+- Грунтовка и окраска
+- Цинкование
+- Анодирование алюминия
+- Порошковая покраска
+
+---
+
+## Преимущества работы с нами
+
+**Быстрые сроки:** от эскиза до готовых деталей за 1-3 дня.
+
+**Любые объемы:** от единичных экземпляров до крупных серий.
+
+**Техническая поддержка:** помогаем оптимизировать конструкцию под технологию резки.
+
+**Гибкая ценовая политика:** скидки при увеличении объема заказа.
+
+**Доставка:** организуем доставку по Златоусту и области.
+
+Обращайтесь к нам с любыми задачами по изготовлению металлических деталей!

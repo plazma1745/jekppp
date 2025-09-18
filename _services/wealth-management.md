@@ -1,87 +1,208 @@
 ---
-title: "Wealth Management"
+title: "Порошковая покраска изделий"
 date: 2019-06-18T12:33:46+10:00
 weight: 8
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+Современная порошковая покраска металлических изделий в Златоусте
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Порошковая покраска](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+# Долговечные защитно-декоративные покрытия
 
-Financial accounting and financial reporting are often used as synonyms.
+Выполняем профессиональную порошковую покраску металлических изделий любой сложности. Современное оборудование и качественные порошковые краски гарантируют превосходный результат.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+## Технология порошковой покраски
 
-## Relevance
+### Процесс нанесения покрытия
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+1. **Подготовка поверхности**
+   - Дробеструйная очистка до Sa 2,5
+   - Химическое обезжиривание
+   - Фосфатирование (при необходимости)
+   - Сушка и подогрев изделий
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+2. **Нанесение порошка**
+   - Электростатическое напыление
+   - Равномерное покрытие всех поверхностей
+   - Контроль толщины слоя
+   - Удаление излишков порошка
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+3. **Полимеризация**
+   - Запекание в печи при 180-220°С
+   - Контролируемый температурный режим
+   - Время выдержки 10-20 минут
+   - Охлаждение до комнатной температуры
 
-## Faithful Representation
+### Преимущества технологии
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+- **Экологичность** - отсутствие растворителей
+- **Экономичность** - возможность повторного использования порошка  
+- **Качество** - равномерное покрытие без подтеков
+- **Долговечность** - срок службы до 15-20 лет
 
 ---
 
-## Statement of cash flows
+## Виды порошковых красок
 
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+### По химическому составу
 
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
+**Полиэфирные краски:**
+- Отличная атмосферостойкость
+- Широкая цветовая гамма
+- Глянцевые и матовые текстуры
+- Устойчивость к УФ-излучению
 
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
+**Эпоксидные краски:**
+- Высокая химическая стойкость
+- Отличная адгезия к металлу
+- Применение внутри помещений
+- Повышенная твердость покрытия
 
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
+**Полиуретановые краски:**
+- Превосходная износостойкость
+- Эластичность покрытия
+- Стойкость к механическим воздействиям
+- Широкий температурный диапазон
 
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
+### По внешнему виду
 
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
+| Тип покрытия | Описание | Применение |
+| ------------ | -------- | ---------- |
+| Глянцевое | Зеркальный блеск | Декоративные элементы |
+| Матовое | Отсутствие блеска | Технические изделия |
+| Текстурное | Рельефная поверхность | Антивандальные покрытия |
+| Металлик | Металлический блеск | Дизайнерские решения |
 
-## Statement of financial position (balance sheet)
+### Специальные покрытия
 
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
+- **Антимикробные** для медицинского оборудования
+- **Электропроводящие** для экранирования
+- **Термостойкие** до 600°C
+- **Антикоррозионные** с цинком
 
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
+---
 
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+## Подготовка изделий
+
+### Очистка поверхности
+
+**Дробеструйная обработка:**
+- Удаление всех видов загрязнений
+- Создание оптимальной шероховатости
+- Повышение адгезии покрытия
+- Стандарт очистки Sa 2,5
+
+**Химическая подготовка:**
+- Обезжиривание щелочными растворами
+- Травление кислотами (при необходимости)
+- Фосфатирование для лучшей адгезии
+- Промывка и сушка
+
+### Маскирование
+
+Защита участков, не подлежащих окраске:
+- Силиконовые заглушки для отверстий
+- Термостойкая лента для резьбы
+- Специальные маски для сложных форм
+- Временные крепления
+
+## Контроль качества
+
+### Входной контроль
+
+- Проверка качества порошковых красок
+- Тестирование параметров напыления
+- Калибровка измерительного оборудования
+- Подготовка тестовых образцов
+
+### Операционный контроль
+
+- Толщина покрытия (60-120 мкм)
+- Равномерность нанесения
+- Отсутствие дефектов (кратеров, наплывов)
+- Соблюдение температурного режима
+
+### Финальный контроль
+
+- Адгезия покрытия (решетчатый надрез)
+- Твердость по Кенигу
+- Блеск поверхности (при необходимости)
+- Цветовое соответствие образцу
+
+---
+
+## Цветовая палитра
+
+### Стандартные цвета RAL
+
+Более 200 стандартных цветов каталога RAL:
+- **RAL 9005** - черный глянцевый
+- **RAL 9016** - белый матовый  
+- **RAL 6005** - зеленый моховый
+- **RAL 3020** - красный транспортный
+- **RAL 5010** - синий стальной
+
+### Специальные цвета
+
+- **Цвета металлик** - золото, серебро, бронза
+- **Флуоресцентные** цвета повышенной яркости
+- **Молотковые** эффекты с рельефной текстурой
+- **Перламутровые** переливающиеся покрытия
+
+### Подбор цвета
+
+- Окраска по образцам заказчика
+- Цветоподбор на колориметре
+- Изготовление тестовых образцов
+- Согласование с дизайнером
+
+## Области применения
+
+### Архитектурные элементы
+
+- Оконные и дверные профили
+- Фасадные панели и кассеты
+- Ограждения и перила
+- Козырьки и навесы
+
+### Промышленное оборудование
+
+- Корпуса электрощитов
+- Станины и кожухи станков  
+- Вентиляционное оборудование
+- Металлическая мебель
+
+### Автомобильная промышленность
+
+- Диски и обвесы
+- Элементы подвески
+- Декоративные детали
+- Защитные экраны
+
+---
+
+## Размеры камеры
+
+**Габариты рабочей зоны:**
+- Длина: 6 000 мм
+- Ширина: 2 500 мм  
+- Высота: 3 000 мм
+- Грузоподъемность: 2 000 кг
+
+**Возможности:**
+- Покраска длинномерных изделий
+- Обработка крупных конструкций
+- Подвеска на транспортере
+- Ручная загрузка/выгрузка
+
+### Упаковка и доставка
+
+- Защитная упаковка готовых изделий
+- Предотвращение повреждений при транспортировке
+- Доставка собственным транспортом
+- Разгрузка с соблюдением мер предосторожности
+
+> **Гарантия качества:** гарантируем соответствие покрытий всем техническим требованиям и стандартам качества.
+
+Порошковая покраска - это красота и защита ваших изделий на долгие годы!
