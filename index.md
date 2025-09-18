@@ -1,7 +1,7 @@
 ---
-title: Jekyll Serif Theme
+title: Плазменная и лазерная резка металла в Златоусте
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Профессиональная резка металла в Златоусте. Плазменная, лазерная и гидроабразивная обработка. Металлоконструкции любой сложности. Быстро, качественно, недорого.
 intro_image: "images/illustrations/plasma1.webp"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
