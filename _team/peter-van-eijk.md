@@ -1,13 +1,15 @@
 ---
-title: "Peter Van Eijk"
+title: "Александр Петров"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/peter-van-eijk-711986-unsplash.jpg"
-jobtitle: "Director"
-linkedinurl: "https://www.linkedin.com/"
+jobtitle: "Генеральный директор"
+linkedinurl: ""
 promoted: true
 weight: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Основатель и руководитель компании с более чем 20-летним опытом работы в сфере металлообработки. Начинал карьеру слесарем на Златоустовском металлургическом заводе, затем освоил современные технологии резки металла.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Под его руководством компания выросла от небольшой мастерской до современного предприятия с полным циклом металлообработки. Александр Владимирович лично контролирует качество выполняемых работ и внедряет новые технологические решения.
+
+Образование: Южно-Уральский государственный университет, инженер-механик. Регулярно посещает международные выставки металлообрабатывающего оборудования для изучения передовых технологий.

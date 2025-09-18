@@ -1,12 +1,14 @@
 ---
-title: "Bill McDonald"
+title: "Владимир Соколов"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
-jobtitle: "Graphic Designer"
+jobtitle: "Оператор плазменной резки"
 linkedinurl: ""
 weight: 7
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Опытный специалист плазменной резки с 10-летним стажем работы. Владимир в совершенстве знает все особенности плазменной технологии и способен обрабатывать металл любой толщины с высоким качеством реза.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Специализируется на изготовлении крупногабаритных деталей для металлоконструкций, элементов промышленного оборудования и заготовок для дальнейшей механической обработки. Его работы отличаются стабильно высоким качеством и точным соблюдением размеров.
+
+Владимир активно участвует в освоении новых видов материалов и совершенствовании технологических режимов резки. Является опытным наставником для молодых операторов, обучает их тонкостям профессии и передает накопленный опыт.

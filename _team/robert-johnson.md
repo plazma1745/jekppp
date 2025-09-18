@@ -1,10 +1,14 @@
 ---
-title: "Robert Johnson"
+title: "Дмитрий Козлов"
 date: 2018-12-20T13:44:23+10:00
 image: "images/team/vince-fleming-613817-unsplash.jpg"
-jobtitle: "Developer"
-linkedinurl: "https://www.linkedin.com/"
+jobtitle: "Технолог-программист ЧПУ"
+linkedinurl: ""
 weight: 3
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+Ведущий специалист по программированию станков с ЧПУ и разработке управляющих программ для всех типов оборудования. Дмитрий способен создать программу резки для деталей любой сложности, оптимизировать раскрой материала и обеспечить максимальную эффективность производства.
+
+Имеет высшее техническое образование и более 12 лет опыта работы с системами CAD/CAM. Свободно работает с программными комплексами AutoCAD, SolidWorks, Inventor, а также со специализированным ПО для станков резки металла.
+
+Дмитрий регулярно участвует в семинарах и тренингах по новейшим технологиям программирования ЧПУ, что позволяет внедрять передовые решения в производственный процесс компании.

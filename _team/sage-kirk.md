@@ -1,14 +1,18 @@
 ---
-title: "Sage Kirk"
+title: "Сергей Николаев"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/sage-kirk-485982-unsplash.jpg"
-jobtitle: "Accounting Partner"
-linkedinurl: "https://www.linkedin.com/example2"
+jobtitle: "Технический директор"
+linkedinurl: ""
 promoted: true
 weight: 2
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+Ведущий специалист по внедрению и настройке высокотехнологичного оборудования.
 <!--more-->
 
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+Отвечает за техническое оснащение производства, программирование станков с ЧПУ и разработку технологических процессов. Имеет сертификаты производителей оборудования плазменной, лазерной и гидроабразивной резки.
+
+Сергей Владимирович успешно запустил все основные производственные участки: от первого станка плазменной резки до современного лазерного комплекса. Благодаря его экспертизе компания способна выполнять заказы любой технической сложности.
+
+Образование: Московский государственный технический университет им. Н.Э. Баумана, инженер по автоматизированному оборудованию. Постоянно повышает квалификацию на курсах ведущих производителей станков.
